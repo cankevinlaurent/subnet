@@ -1,0 +1,15 @@
+##############################################################################
+# Config file: config_subnet
+##############################################################################
+# MUST RESTART SERVICE TO RELOAD CONFIG
+
+#where this program locates
+location = sh
+
+#listen port
+port = 20501
+
+#authentication
+#username and password
+username = admin
+password = ctshitoc
